@@ -1,4 +1,4 @@
-# JavaScript Interview Questions & Answers
+# ama
 
 ## 1. Adhikya Edammala: What is a variable?
 
