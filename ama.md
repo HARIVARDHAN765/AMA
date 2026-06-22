@@ -1,4 +1,4 @@
-# Python Interview Questions & Answers
+# AMA
 
 ## Adhikya Edammala: Can we access protected variable outside class?
 
